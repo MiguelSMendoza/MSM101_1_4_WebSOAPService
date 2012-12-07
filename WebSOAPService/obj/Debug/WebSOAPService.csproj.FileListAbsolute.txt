@@ -1,0 +1,10 @@
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebSOAPService\WebSOAPService\bin\WebSOAPService.dll
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebSOAPService\WebSOAPService\bin\WebSOAPService.pdb
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebSOAPService\WebSOAPService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebSOAPService\WebSOAPService\obj\Debug\WebSOAPService.dll
+C:\Users\Miguel\Dropbox\Brockhaus\NET\WebSOAPService\WebSOAPService\obj\Debug\WebSOAPService.pdb
+C:\Users\Miguel\Dropbox\Curso Android\Proyectos\MSM101_1_4_WebSOAPService\WebSOAPService\bin\WebSOAPService.dll
+C:\Users\Miguel\Dropbox\Curso Android\Proyectos\MSM101_1_4_WebSOAPService\WebSOAPService\bin\WebSOAPService.pdb
+C:\Users\Miguel\Dropbox\Curso Android\Proyectos\MSM101_1_4_WebSOAPService\WebSOAPService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Miguel\Dropbox\Curso Android\Proyectos\MSM101_1_4_WebSOAPService\WebSOAPService\obj\Debug\WebSOAPService.dll
+C:\Users\Miguel\Dropbox\Curso Android\Proyectos\MSM101_1_4_WebSOAPService\WebSOAPService\obj\Debug\WebSOAPService.pdb
